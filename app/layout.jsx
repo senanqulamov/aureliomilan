@@ -211,6 +211,9 @@ export default function RootLayout({ children }) {
           </div>
           <div className="footer__bottom">
             <span>© {new Date().getFullYear()} {site.name}. All rights reserved.</span>
+            <a className="footer__credit" href="https://senanqulamov.com" target="_blank" rel="noopener noreferrer">
+              made by: senanqulamov.com
+            </a>
             <span>{site.footerNote}</span>
           </div>
         </footer>
