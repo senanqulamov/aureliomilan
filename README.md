@@ -2,6 +2,9 @@
 
 Portfolio site for Aurelio Milan. Next.js (App Router), GSAP, Lenis and three.js.
 
+Live site: https://aureliomilan.com
+Repository: https://github.com/senanqulamov/aureliomilan
+
 ## Run locally
 
 ```bash
